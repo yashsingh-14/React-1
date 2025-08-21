@@ -1,3 +1,4 @@
+//first prac
 // import { Avenger } from "./App";
 // import React from "react";
 // import ReactDom from "react-dom/client"
@@ -13,6 +14,7 @@
 //     <AvengerClass />
 // </>)
 
+//second prac
 import { ShieldPass } from "./App";
 
 import React from 'react';
