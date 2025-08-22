@@ -18,4 +18,5 @@ export class AvengerClass extends Component{
     render(){
         return <h2> Hello I am {this.props.fname} {this.props.lname}</h2>
     }
+    
 }
