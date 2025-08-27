@@ -8,13 +8,13 @@ export function Shield() {
 
     return <>
 
-        <h1>Power of Iron Man is : {power1.power}</h1>
+        <h1>Power of Iron Man is 😎: {power1.power}</h1>
         <button type="button" onClick={power1.increase}>Energy</button>
         
-        <h1>Power of Captain America is : {power2.power}</h1>
+        <h1>Power of Captain America is 😃 : {power2.power}</h1>
         <button type="button" onClick={power2.increase}>Energy</button>
         
-        <h1>Power of Hulk is : {power3.power}</h1>
+        <h1>Power of Hulk is 😁 : {power3.power}</h1>
         <button type="button" onClick={power3.increase}>Energy</button>
 
 
