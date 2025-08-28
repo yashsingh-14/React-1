@@ -1,7 +1,7 @@
-import { Thanos } from "./App";
+import { Bootstrap } from "./App";
 import React from "react";
 import ReactDOM from "react-dom/client"
 
 const container = document.getElementById("root")
 const root = ReactDOM.createRoot(container)
-root.render(<Thanos register={true}/>)
+root.render(<Bootstrap/>)
