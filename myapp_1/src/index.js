@@ -1,4 +1,4 @@
-//first prac
+// first prac
 // import { Avenger } from "./App";
 // import React from "react";
 // import ReactDom from "react-dom/client"
