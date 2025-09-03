@@ -1,4 +1,4 @@
-// import car_image from "./car_1.jpg"
+// import car_image from "./car_1.jpg"  
 import car_image from "./image/car_3.jpg"
 
 export function Image() {
